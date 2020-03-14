@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/chmod-calculator/static/css/main.445899fe.chunk.css",
+    "main.js": "/chmod-calculator/static/js/main.e7aa0547.chunk.js",
+    "main.js.map": "/chmod-calculator/static/js/main.e7aa0547.chunk.js.map",
+    "runtime-main.js": "/chmod-calculator/static/js/runtime-main.deab82ec.js",
+    "runtime-main.js.map": "/chmod-calculator/static/js/runtime-main.deab82ec.js.map",
+    "static/js/2.00442fe0.chunk.js": "/chmod-calculator/static/js/2.00442fe0.chunk.js",
+    "static/js/2.00442fe0.chunk.js.map": "/chmod-calculator/static/js/2.00442fe0.chunk.js.map",
+    "index.html": "/chmod-calculator/index.html",
+    "precache-manifest.44d5bdbaf1112586cab750dd366fb4d3.js": "/chmod-calculator/precache-manifest.44d5bdbaf1112586cab750dd366fb4d3.js",
+    "service-worker.js": "/chmod-calculator/service-worker.js",
+    "static/css/main.445899fe.chunk.css.map": "/chmod-calculator/static/css/main.445899fe.chunk.css.map",
+    "static/js/2.00442fe0.chunk.js.LICENSE.txt": "/chmod-calculator/static/js/2.00442fe0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.deab82ec.js",
+    "static/js/2.00442fe0.chunk.js",
+    "static/css/main.445899fe.chunk.css",
+    "static/js/main.e7aa0547.chunk.js"
+  ]
+}
